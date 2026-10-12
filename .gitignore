@@ -1,0 +1,7 @@
+data/*.csv
+data/*.xlsx
+__pycache__/
+*.pyc
+results_smoke/
+figures_smoke/
+results/*.npy
